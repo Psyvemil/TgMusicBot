@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3odWCk56QU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikinci.el.noutbuklar\\source\\repos\\TgMusicBot\\TgMusicBot\\TgMusicBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikinci.el.noutbuklar\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ikinci.el.noutbuklar\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"Newtonsoft.Json\" 12.0.2 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
